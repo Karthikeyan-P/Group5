@@ -1,0 +1,47 @@
+[
+    {
+        "orderId": 1,
+        "customerName": "C1",
+        "orderDeliveryDate": "2023-02-26",
+        "customerContact": "12312312321",
+        "orderAmount": "450",
+        "paymentStatus": "Paid",
+        "orderStatus": "Delivered"
+    },
+    {
+        "orderId": 2,
+        "customerName": "C2",
+        "orderDeliveryDate": "2023-02-26",
+        "customerContact": "12312312321",
+        "orderAmount": "450",
+        "paymentStatus": "Paid",
+        "orderStatus": "Yet to be delivered"
+    },
+    {
+        "orderId": 3,
+        "customerName": "C3",
+        "orderDeliveryDate": "2023-02-26",
+        "customerContact": "12312312321",
+        "orderAmount": "450",
+        "paymentStatus": "Paid",
+        "orderStatus": "Pending Confirmation"
+    },
+    {
+        "orderId": 4,
+        "customerName": "C3",
+        "orderDeliveryDate": "2023-02-27",
+        "customerContact": "12312312321",
+        "orderAmount": "450",
+        "paymentStatus": "Paid",
+        "orderStatus": "Pending Confirmation"
+    },
+    {
+        "orderId": 5,
+        "customerName": "C3",
+        "orderDeliveryDate": "2023-02-25",
+        "customerContact": "12312312321",
+        "orderAmount": "450",
+        "paymentStatus": "Paid",
+        "orderStatus": "Pending Confirmation"
+    }
+]
